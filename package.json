@@ -1,0 +1,11 @@
+{
+    "name": "llevalos-a-la-escuela"
+  , "description": "Demo en HTML5 con Sockets de la campaña LLévalos a la escuela de ING Direct y UNICEF"
+  , "author": "Jorge del Casar <jorge.casar@gmail.com>"
+  , "version": "0.0.1"
+  , "dependencies": {
+      "express": "< 2.5"
+    , "socket.io": ">= 0.0.1"
+  }
+  , "engine": "node 0.4.7"
+}

@@ -1,0 +1,8 @@
+#main { position:relative; overflow:hidden; padding:10px 20px; }
+#school { float:right; display:block; width:130px; height:130px; margin-right:20px; background:transparent url(/images/school.png) no-repeat center bottom; background-size:100%; border-radius:10px; }
+#child { position:absolute; top:40px; left:-100px; width:100px; height:100px; background:transparent url(/images/child_02.png) no-repeat center bottom;
+	-webkit-transition: left 2s;
+	   -moz-transition: left 2s;
+	     -o-transition: left 2s;
+	        transition: left 2s;
+}
